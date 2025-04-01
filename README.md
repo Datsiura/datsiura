@@ -32,7 +32,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Datsiura&show_icons=true&locale=en" alt="Datsiura" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Datsiura&show_icons=true&locale=en&layout=compact" alt="Datsiura" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Datsiura&theme=radical&show_icons=true&locale=en" alt="Datsiura" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Datsiura&show_icons=true&theme=radical&locale=en&layout=compact" alt="Datsiura" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Datsiura" alt="Datsiura" /></a></p>
 # datsiura
