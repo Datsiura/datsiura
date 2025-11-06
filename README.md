@@ -36,7 +36,7 @@
   <table>
   <tr>
       <td><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Datsiura&theme=radical&show_icons=true" alt="Datsiura" /></td>
-      <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Datsiura&show_icons=true&theme=radical" alt="Datsiura" /></td>
+      <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Datsiura&show_icons=true&theme=radical&layout=compact" alt="Datsiura" /></td>
   </tr>   
 </table>
 </a>
